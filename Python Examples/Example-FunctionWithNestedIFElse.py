@@ -1,3 +1,4 @@
+# Function with Nested IF Else
 def printColor(value):
     value = value.upper()
     if (value == 'Y'):
@@ -9,5 +10,4 @@ def printColor(value):
     else:
         print "unknown"
 
-# code to test
 printColor('r')  # call function
