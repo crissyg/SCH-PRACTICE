@@ -1,3 +1,5 @@
+# File Input example
+
 # prompt user for path
 path = input("Enter fully qualified path name (in double quotes) of the file with data: ")
 
