@@ -1,3 +1,4 @@
+# Description: Python Menu example with functions
 def printHello():
     print "\nhello"
 
