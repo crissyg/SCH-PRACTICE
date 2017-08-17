@@ -1,0 +1,7 @@
+
+var = "abcd"
+try:
+    print var[5]
+
+except IndexError:
+    print "Caught Exception"
